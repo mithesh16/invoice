@@ -13,4 +13,5 @@
 
 <a href="https://invoice-ledger-eth.netlify.app/">Project link</a>
 <h3>NOTE:Read before running the link</h3>
+<p>Use browsers that support metamask like chrome,brave </p>
 <p>While running the website,Click on connect metamask button before interacting with smart contract</p>
