@@ -10,7 +10,7 @@
 <li>IPFS (Web3Storage)</li>
 <li>Alchemy(RPC node provider)</li>
 </ul>
-<a href:"https://invoice-ledger-eth.netlify.app/" >Project link </a>
 
+<a href="https://invoice-ledger-eth.netlify.app/">Project link</a>
 <h3>NOTE:Read before running the link</h3>
 <p>While running the website,Click on connect metamask button before interacting with smart contract</p>
