@@ -1,13 +1,16 @@
-# Sample Hardhat Project
+<h1>Invoice ledger </h1>
+<h3>Technologies Used</h3>
+<ul>
+<li>Solidity</li>
+<li>JavaScript</li>
+<li>Hardhat</li>
+<li>React</li>
+<li>CSS3</li>
+<li>HTML5</li>
+<li>IPFS (Web3Storage)</li>
+<li>Alchemy(RPC node provider)</li>
+</ul>
+<a href:"https://invoice-ledger-eth.netlify.app/" >Project link </a>
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+<h3>NOTE:Read before running the link</h3>
+<p>While running the website,Click on connect metamask button before interacting with smart contract</p>
