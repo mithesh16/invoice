@@ -2,7 +2,6 @@
 pragma solidity 0.8.17;
 import "@openzeppelin/contracts/access/Ownable.sol";
 contract invoice is Ownable{
-address owner;
     struct Transaction{
         uint txID;
         string buyerPan;
@@ -11,9 +10,6 @@ address owner;
         string date;
         bool paid;
     }
-constructor(){
-    owner=msg.sender;
-}
     mapping(string=>Transaction[]) public buyerHistory;
     Transaction[] public transactions;
 
