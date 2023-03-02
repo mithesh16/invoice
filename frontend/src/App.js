@@ -323,8 +323,8 @@ const connectMetamask=async()=>{
 const addInvoice=async(event)=>{
 event.preventDefault();
 const txresponse = await contract.addTransaction(buyerpan,sellerpan,amount,date);
-const txreciept=await txresponse.wait();
-console.log(txreciept);
+const txReciept=await txresponse.wait();
+console.log(txReciept);
  console.log(sellerpan,buyerpan,amount,date)
 }
 
